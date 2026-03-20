@@ -1,2 +1,1 @@
-# João Saraiva
-Analytics Portfolio
+# Talent Segmentation and Workforce Profiling using KModes
