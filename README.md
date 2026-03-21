@@ -11,3 +11,6 @@ You can contact me via **email** at **joaomariosaraiva.99@gmail.com** or connect
 ## João Saraiva's Portfolio
 
 ### [Project: 1 - Talent-Segmentation-and-Workforce-Profiling-using-K-Modes](https://github.com/JoaoSaraiva99/Talent-Segmentation-and-Workforce-Profiling-using-K-Modes)
+**Project description:** 
+HR analytics project focused on workforce segmentation, performance evaluation, and rater-effect validation using dashboarding, K-Modes clustering, and regression analysis. 
+The results showed that the workforce could be segmented into distinct employee profiles with different levels of performance, visibility needs, promotion dynamics, and readiness for broader responsibilities. The
