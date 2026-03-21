@@ -8,6 +8,6 @@ My main tools include **Python, KNIME, Power BI, Excel, SPSS, and Power Automate
 
 You can contact me via **email** at **joaomariosaraiva.99@gmail.com** or connect with me on **LinkedIn**.
 
-# João Saraiva's Portfolio
+## João Saraiva's Portfolio
 
-# [Project: 1 - Talent-Segmentation-and-Workforce-Profiling-using-K-Modes] (https://github.com/JoaoSaraiva99/Talent-Segmentation-and-Workforce-Profiling-using-K-Modes)
+### [Project: 1 - Talent-Segmentation-and-Workforce-Profiling-using-K-Modes](https://github.com/JoaoSaraiva99/Talent-Segmentation-and-Workforce-Profiling-using-K-Modes)
