@@ -59,9 +59,7 @@ This is a fraud analytics project where I explored anomaly detection and classif
   <img src="https://github.com/user-attachments/assets/60c4878a-c4ce-4e80-b2b2-686e28c458fe" alt="Credly Badge" width="140"/>
 </a>
 
-### Advanced Proficiency in KNIME Analytics Platform badge image. Certification. Intermediate level. Issued by KNIME
-Advanced Proficiency in KNIME Analytics Platform
-
+### Advanced Proficiency in KNIME Analytics Platform
 <a href="https://www.credly.com/badges/524b2e5d-00e2-45f1-b714-84425fcbb3af">
   <img src="https://github.com/user-attachments/assets/b7120d7c-ea6d-4330-9862-76611c6b8615" alt="Credly Badge" width="140"/>
 </a>
