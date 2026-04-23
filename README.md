@@ -75,6 +75,18 @@ This is a customer analytics and machine learning project focused on predicting 
 - Main tools used: **Python, Pandas, Scikit-learn, XGBoost, SHAP**
 - Key findings showed that satisfaction is primarily driven by **Seat comfort, Customer Type, Type of Travel and service-related variables**, while PCA reduced model performance and neural networks were not necessary given the strong performance of tree-based models.
 
+### [Project: 7 - EFL Championship Performance Analytics Dashboard](https://github.com/JoaoSaraiva99/EFL-Championship-Performance-Analytics-Dashboard)
+**Project description:**  
+This is a sports analytics project where I explored team performance, season standings, and referee behavior in the **EFL Championship**, using a combination of data transformation, dashboard design, and interactive reporting in Power BI.  
+- Data was based on match results from the **last 22 years** of the EFL Championship  
+- Performed substantial **data restructuring in Power Query**, transforming the original match-level home/away dataset into a **team-per-match analytical structure**  
+- Reframed match outcomes from the away-team perspective and created new derived variables such as **Results**, **Results Points**, **Goal Difference**, and **Score**  
+- Built an interactive **Power BI dashboard** with **3 main pages**: **Team Stats**, **Season Stats**, and **Referee Stats**  
+- Developed team-level visuals including goals scored vs. goals conceded over time, result distribution, opponent-based top 5 analysis, and summary performance cards  
+- Created season-level league tables with **embedded data bars**, interactive match-result tables, and a **tooltip page** showing the 5 most recent matches for each team  
+- Designed referee analysis using **average cards per match** instead of raw totals to reduce sample-size bias, including comparisons of yellow cards, red cards, and total disciplinary patterns by club  
+- Main tools used: **Power BI, Power Query, DAX, Excel**  
+
 ## Certifications
 ### 1st Place in the Identifying Fraud Challenge - Spring 2025
 <a href="https://www.credly.com/badges/634b8637-bd87-459b-b8d0-e6694d357735/linked_in_profile">
